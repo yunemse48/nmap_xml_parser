@@ -13,5 +13,5 @@ This tool processes XML formatted output of Nmap by parsing IP addresses, open p
 
 As a result of the command above, a file named ***parsed_result.docx*** is created.
 
-**How Does The Output Look?**
+**How Does The Output Look Like?**<br>
 ![](https://raw.githubusercontent.com/yunemse48/nmap_xml_parser/main/img/output_ss.png)
