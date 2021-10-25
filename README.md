@@ -8,7 +8,7 @@ This tool processes XML formatted output of Nmap by parsing IP addresses, open p
 
 `python nmap_xml_parser.py -f <nmap_xml_output_file> -o <output_file>`
 
-**Example: ** 
+**Example:** <br>
 `python nmap_xml_parser.py -f nmap_result.xml -o parsed_result`
 
 As a result of the command above, a file named ***parsed_result.docx*** is created.
