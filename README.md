@@ -2,7 +2,7 @@
 
 [Nmap](https://nmap.org/)(Network Mapper) can provide different types of outputs, and one of them is XML formatted output. 
 
-This tool processes XML formatted output of Nmap by parsing IP addresses, open ports and the services run on these ports. Then the result is written in a table in Microsoft Word (.docx) document. Thus, some valuable information is parsed from the Nmap output and stored in a Word document (.docx) in a beutified format.
+This tool processes XML formatted output of Nmap by parsing IP addresses, open ports and the services run on these ports. Then the result is written in a table in Microsoft Word (.docx) document. Thus, some valuable information is parsed from the Nmap output and stored in a Word document (.docx) in a beautified format.
 
 ## Usage
 
